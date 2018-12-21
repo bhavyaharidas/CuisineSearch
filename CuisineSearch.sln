@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuisineSearch", "CuisineSearch\CuisineSearch.csproj", "{910D7D97-58C9-4141-AA8A-8A2EF641477A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuisineSearch.Tests", "CuisineSearch.Tests\CuisineSearch.Tests.csproj", "{DCBFFB47-EEE3-46BE-9840-90F88A88E2EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910D7D97-58C9-4141-AA8A-8A2EF641477A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910D7D97-58C9-4141-AA8A-8A2EF641477A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910D7D97-58C9-4141-AA8A-8A2EF641477A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910D7D97-58C9-4141-AA8A-8A2EF641477A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBFFB47-EEE3-46BE-9840-90F88A88E2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBFFB47-EEE3-46BE-9840-90F88A88E2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBFFB47-EEE3-46BE-9840-90F88A88E2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBFFB47-EEE3-46BE-9840-90F88A88E2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F34B1628-C851-4A43-BCF6-3D1EB7D3A19A}
+	EndGlobalSection
+EndGlobal
